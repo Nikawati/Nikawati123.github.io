@@ -1,2 +1,3 @@
 # nikawati.github.io
-tugas appmob
+Mahasiswa uin suska riau 
+jurusan sistem informasi
